@@ -24,7 +24,7 @@ merge cultivation, biology, and quantum information into one coherent system
 
 QTOS is architected from:
 
-120+ timestamped therapeutic datasets
+150+ timestamped therapeutic datasets
 
 26 published white papers
 
@@ -45,6 +45,8 @@ Multi-omic intelligence engine integrating:
 ECS signalling
 
 Programmed Cell Death (41 PCD classes)
+
+24 Hallmarks of Cancer
 
 miRNA–oncogene logic
 
@@ -130,7 +132,7 @@ QTOS supports modular or full-stack licensing across:
 
 🔬 Oncology
 
-22 Hallmarks of Cancer
+24 Hallmarks of Cancer
 
 Tumour Microenvironment
 
