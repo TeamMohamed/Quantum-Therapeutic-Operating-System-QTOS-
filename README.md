@@ -1,4 +1,4 @@
-🌱 Grow Your Own Cure
+🌱 Grow Your Own Medicine
 QTOS — Quantum Therapeutic Operating System
 A Physics-First, ECS-Centered Operating System for Decentralized Medicine, Regenerative Cultivation & Global Health Sovereignty
 
