@@ -1,95 +1,264 @@
-🌱 Grow Your Own Cure  
-A Quantum Therapeutic Operating System for Global Bioactive Medicine & Decentralized Health Sovereignty
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15253080.svg)](https://doi.org/10.5281/zenodo.15253080)
+🌱 Grow Your Own Cure
+QTOS — Quantum Therapeutic Operating System
+A Physics-First, ECS-Centered Operating System for Decentralized Medicine, Regenerative Cultivation & Global Health Sovereignty
 
-Author: Anwar Mohamed  
-ORCID: 0009-0000-6043-9275  
-TeamMohamed | Therapeutic Intelligence Architect
-DOI: 10.5281/zenodo.15253080
+DOI: 10.5281/zenodo.17612880
+Author: Anwar Mohamed
+ORCID: 0009-0000-6043-9275
+*TeamMohamed | Therapeutic Intelligence Architect
+White Paper DOI: 10.5281/zenodo.15253080
 
 🚀 Overview
 
-Grow Your Own Cure - introduces the Quantum Therapeutic Operating System (QTOS) a first of its kind AI-powered, ECS-centered, cultivation-integrated medical OS designed to decentralize health, regenerate ecosystems, and personalize therapy down to the receptor level.
+QTOS (Quantum Therapeutic Operating System) is a world-first, physics-driven, ECS-centered, AI-powered therapeutic OS built to:
 
-Built from 120+ timestamped therapeutic datasets**, 26 white papers, and 25+ natural compound libraries, QTOS generates precision healing protocols *and* enables patients, practitioners, and governments to grow their own medicine using terpene–fungi–plant synergies.
+decentralize medicine
 
-QTOS is not a health app.  
-It’s the Master Control Room for Human Biology.
+regenerate ecosystems
 
+deliver receptor-level precision therapy
 
-🧬 Core Features
+enable nations and communities to grow their own cures
 
-- 🔹 **AI Protocol Generator** – Multi-omic input (ECS, PCD, miRNA, metabolism)  
-- 🔹 **Grow-Your-Own Blueprint Engine** – Geo-climate-cultivation logic + ECS targeting  
-- 🔹 **ECS Dashboards** – Real-time modulation of inflammation, tone, redox, neuroimmune  
-- 🔹 **Companion Planting Intelligence** – Terpene-matched micro-ecosystem design  
-- 🔹 **Clinical & Humanitarian Deployment Modes** – SaaS, Offline, Co-ops, National API
+merge cultivation, biology, and quantum information into one coherent system
 
+QTOS is architected from:
 
-📦 Vertical Dataset Licensing (Modular Stacks)
+120+ timestamped therapeutic datasets
 
-QTOS offers full-stack or modular access across domains:
+26 published white papers
 
-🔬 Oncology including 
-- 22 Hallmarks of Cancer  
-- Cancer Stem Cells (CSCs)  
-- Tumour Microenvironment  
-- 41 Programmed Cell Death types  
-- 58 Metabolic Reprogramming Pathways  
-- miRNA-oncogene modulation and more
+25+ compound libraries & ECS-centered stacks
 
-🧠 Neurology  including
-- Cognition, Mood, Neurorepair  
-- EAATs, ECS–Synaptic Tuning  
-- Neuroimmune, Biophotonic Regulation
+multi-layer systems maps (PCD, Hallmarks, miRNA, metabolism)
 
-🧬 Epigenetics & Enzyme Logic  
-- DNA Methylation, Histone Control  
-- Enzyme targeting, cryptic functional sequence mapping  
-- Noncoding precision overlays
+quantum + geometric + epigenetic models
 
-🧠 Immunology  
-- GcMAF, Nagalase Suppression  
-- Interleukins, Tregs, Redox Bioenergetics  
-- ECS–Immune–Microbiome Triad
+QTOS is not an app.
+It is the Master Control Room for Human Biology.
 
-🌱 Gut–Brain–ECS  
-- Vagus Nerve, SCFAs  
-- Microbiome–Terpene–ECS Crosstalk  
-- Enteric Nervous System & ENS Repair
+🧬 Core System Features
+🔹 AI Protocol Generator
 
-⚙️ Other Custom Stacks  
-- Pain, PTSD, Virology, Mitochondrial Collapse  
-- Aging & Longevity Protocols  
-- Cardiovascular, Rare Disease, Pediatric Stacks
+Multi-omic intelligence engine integrating:
 
+ECS signalling
+
+Programmed Cell Death (41 PCD classes)
+
+miRNA–oncogene logic
+
+metabolic reprogramming (58 pathways)
+
+redox & bioelectric field maps
+
+fractal–quantum geometry collapse modelling
+
+Delivers precision therapeutic protocols, personalised by:
+
+illness
+
+receptors
+
+metabolic state
+
+epigenetic drift
+
+quantum coherence signatures
+
+🔹 Grow-Your-Own Blueprint Engine
+
+A cultivation OS linking:
+
+local climate
+
+soil chemistry
+
+terpene expression
+
+plant–fungi synergy
+
+ECS receptor targeting
+
+It outputs:
+
+personalised grow maps
+
+companion planting layouts
+
+terpene–fungi–vegetal synergy fields
+
+extraction & preparation protocols
+
+Medicine becomes sovereign, local, regenerative.
+
+🔹 ECS Intelligence Dashboards
+
+Live modulation models for:
+
+inflammation
+
+neuroimmune tone
+
+redox alignment
+
+metabolic stability
+
+ion-channel geometry
+
+quantum coherence signatures
+
+Your body becomes a navigable system.
+
+🔹 Companion Ecosystem Generator
+
+A biodiverse co-cultivation engine generating:
+
+terpene-matched plant guilds
+
+mushroom integration fields
+
+microbial enrichment layers
+
+resilience and yield optimisation
+
+Medicine grows in micro-ecosystems, not single plants.
+
+📦 Modular Dataset Licensing (Vertical Stacks)
+
+QTOS supports modular or full-stack licensing across:
+
+🔬 Oncology
+
+22 Hallmarks of Cancer
+
+Tumour Microenvironment
+
+Cancer Stem Cells
+
+Immune Evasion Maps
+
+41 Programmed Cell Death Pathways
+
+58 Metabolic Reprogramming Pathways
+
+miRNA–oncogene suppression models
+
+ECS–oncology coherence logic
+
+Epigenetic drift → geometric collapse mapping
+
+🧠 Neurology
+
+cognition, mood, neurorepair
+
+EAAT repair systems
+
+ECS–synaptic modulation
+
+neuroimmune tuning
+
+biophotonic regulation maps
+
+ion-channel geometry models
+
+🧬 Epigenetics & Enzyme Logic
+
+DNA methylation & histone drift
+
+noncoding overlays (miRNA, lncRNA)
+
+enzyme-targeting geometric logic
+
+cryptic functional sequence mapping
+
+🧠 Immunology
+
+GcMAF pathways
+
+Nagalase suppression
+
+IL/Treg modulation
+
+microbiome–ECS–immune triad
+
+redox bioenergetics
+
+🌱 Gut–Brain–ECS Axis
+
+vagus nerve tuning
+
+SCFA signalling maps
+
+microbiome–terpene–ECS crosstalk
+
+ENS repair architecture
+
+⚙️ Other Stacks
+
+chronic pain
+
+PTSD
+
+virology
+
+mitochondrial collapse
+
+aging & longevity protocols
+
+cardiovascular & pediatric precision maps
+
+rare disease AI-assisted pathways
 
 🌍 Deployment Strategy
+💻 SaaS Clinical Licensing
 
-- 💻 **SaaS Licensing for Clinics & Hospitals**  
-- 🌾 **GrowHub Deployments for Farms, Co-ops, & Schools**  
-- 🧰 **Offline Humanitarian Access Layer (HAL)**  
-- 🧬 **Open & Closed Source Model for Policy & Partner Use**
+For clinics, institutes, hospitals, and research labs.
 
+🌾 GrowHub Deployment
 
-📖 White Paper
+For farms, co-ops, schools, resilient communities, NGOs.
 
-You can read the full white paper on Zenodo:  
-**[Grow Your Own Cure – Zenodo DOI (insert here)]**
+🧰 HAL — Humanitarian Access Layer
 
+Offline, low-tech, crisis-resilient packages for:
+
+disaster zones
+
+indigenous communities
+
+low-infrastructure regions
+
+🧬 Open + Closed Source Dual Model
+
+Open for research, closed for critical IP and therapeutic architectures.
+Government-grade licensing available.
+
+📖 White Papers (Core Linked DOIs)
+Primary (This repository):
+
+A Physics-First Framework for Multi-Layer Disease Dynamics
+DOI: 10.5281/zenodo.17612880
+
+Supplemental / Integrated Works:
+
+Quantum Telephoto — DOI: 10.5281/zenodo.15222191
+Quantum DNA Antenna — DOI: 10.5281/zenodo.17534585
+Multi-Layer Dataset Mapping — DOI: 10.5281/zenodo.15226523
+
+These papers form the theoretical and mathematical architecture underlying QTOS.
 
 📜 License
 
-**Creative Commons Attribution-NonCommercial 4.0 (CC BY-NC 4.0)**  
-This platform is open for ethical, research, clinical, and regenerative use. Commercial use requires a licensing agreement.
+Anwar Mohamed Ultra-Proprietary License — Total Restrictions Applied
+This project, its frameworks, models, and datasets are protected under a fully locked proprietary license.
+Commercial, derivative, computational, or AI use is strictly prohibited without written authorisation.
 
+(Full license in /LICENSE)
 
 🧠 Contact
 
-📩 TeamMohamed@proton.me  
-🌐 [GitHub.com/TeamMohamed](https://github.com/TeamMohamed)  
-🔗 ORCID: [0009-0000-6043-9275](https://orcid.org/0009-0000-6043-9275)
+📩 ecssignalling@gmail.com
 
-
-> **This is not alternative. This is the upgrade.**  
-> From ECS dashboards to mushroom-companion fields, QTOS is medicine’s new operating system.
+🌐 GitHub: github.com/TeamMohamed
+🔗 ORCID: 0009-0000-6043-9275
